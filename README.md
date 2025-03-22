@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @raynaglieri
-- 👀 I’m interested in applications of programming that bring people together. 
-- 🌱 I’m currently learning Unity/Unreal Engine and React. 
-- 📫 The best way to reach me is through my email!
